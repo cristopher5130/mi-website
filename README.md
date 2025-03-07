@@ -1,2 +1,0 @@
-# mi-website
-an exmaple

@@ -55,7 +55,7 @@ nav ul li a.active {
 
 /* ======== Estilos para el banner ======== */
 header {
-    background: url("../SiteImage/banner.jpg") center/cover no-repeat;
+    background: url("banner.jpg") center/cover no-repeat;
     background-attachment: fixed;
     text-align: center;
     color: white;
@@ -126,3 +126,4 @@ footer {
     color: white;
     font-size: 1em;
 }
+

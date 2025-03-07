@@ -107,6 +107,26 @@ header p {
         transform: translateY(0);
     }
 }
+/* Sección de información sobre el servicio */
+.info {
+    background-color: #f4f4f4;
+    padding: 30px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.info h2 {
+    font-size: 2em;
+    color: #f4a261;
+}
+
+.info p {
+    font-size: 1.2em;
+    color: #333;
+    line-height: 1.6;
+}
+
 
 /* ======== Contenido principal ======== */
 main {
